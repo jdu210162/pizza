@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Peperoni",
+        "price": 14,
+        "img": "peperoni.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Blogenium Pizza",
+        "price": 12,
+        "img": "blogenium.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Makan Peperoni",
+        "price": 10,
+        "img": "makan_peperoni.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kombo Pizza",
+        "price": 11,
+        "img": "kombo.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mr Indian Pizza",
+        "price": 15,
+        "img": "indian.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Roni Pizza",
+        "price": 16,
+        "img": "telecharger.jpg"
+    }
+]

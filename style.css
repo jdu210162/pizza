@@ -1,8 +1,16 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+}
+p{
+    color: rgb(9, 17, 133);
+    font-weight: 600;
+}
+h3{
+    font-weight: 800;
 }
 .container{
     max-width: 1300px;
@@ -12,10 +20,10 @@
 :root{
     --white-color: #fff;
     --black-color: #000;
-    --coral-color: #7893d8;
+    --coral-color: #743b5f;
     --blue-color: #0000ff;
-    --silver-color: #d7d6d6;
-    --bg-color:#223126aa;
+    --silver-color: #f4f5f8;
+    --bg-color:#ec1717;
 }
 
 
